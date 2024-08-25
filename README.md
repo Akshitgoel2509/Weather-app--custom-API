@@ -1,5 +1,5 @@
 
-# Weather App
+# WeatherFry
 
 A Weather App built using custom API, useReducer and usecontext in Reactjs, with the help of Bootstrap for styling.
 
